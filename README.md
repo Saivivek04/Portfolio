@@ -7,8 +7,9 @@ This is a portfolio website created using **HTML**, **CSS**, and **JavaScript** 
 - **Interactive Animations**: Smooth scrolling, hover effects, and ScrollReveal animations for better aesthetics and usability.
 - **Dynamic Content**: Includes typed text effects and active navigation highlighting.
 - **Section Highlights**:
-  - **Hero Section**: A welcoming introduction with links to social profiles.
+  - **Home Section**: A welcoming introduction with links to social profiles.
   - **About Section**: Detailed overview of my background, skills, and resume link.
+  - **Coding Profiles**: Links to competitive programming profiles.
   - **Projects Section**: Displays my notable projects with descriptions and GitHub links.
   - **Education Section**: Information about my academic journey.
   - **Contact Section**: A form to reach out to me and other contact details.
